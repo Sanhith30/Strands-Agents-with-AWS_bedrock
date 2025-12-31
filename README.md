@@ -143,7 +143,7 @@ Follow the instructions [here](https://strandsagents.com/latest/user-guide/quick
 
 - **[typescript/01-tutorials](./typescript/01-tutorials/)** - Step-by-step tutorials for the TypeScript SDK
 
-## Contributing ❤️
+## Contributing 
 
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details on:
 - Reporting bugs & features
